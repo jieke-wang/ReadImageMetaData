@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadImageMetaData", "ReadImageMetaData.csproj", "{0120AB1A-CA66-4F9C-A993-52F606019A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileMetaData", "..\ReadFileMetaData\ReadFileMetaData.csproj", "{692ED7DF-99E9-4947-A8CD-F44C99B0764D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0120AB1A-CA66-4F9C-A993-52F606019A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0120AB1A-CA66-4F9C-A993-52F606019A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0120AB1A-CA66-4F9C-A993-52F606019A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0120AB1A-CA66-4F9C-A993-52F606019A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692ED7DF-99E9-4947-A8CD-F44C99B0764D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692ED7DF-99E9-4947-A8CD-F44C99B0764D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692ED7DF-99E9-4947-A8CD-F44C99B0764D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692ED7DF-99E9-4947-A8CD-F44C99B0764D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
